@@ -1,0 +1,10 @@
+let name="Ujjwal";
+const age=22;
+// console.log(name + age);
+// console.log(`My Name is ${name} and age is ${age}`); 
+// console.log(`My Name is ${name} and age is ${age}`);
+const rollNo=new String('ujjwal');
+console.log(rollNo);
+console.log(rollNo.length);
+console.log(rollNo.toUpperCase());
+console.log(rollNo.charAt('3'));
